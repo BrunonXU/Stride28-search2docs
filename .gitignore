@@ -1,0 +1,24 @@
+# 认证信息（不要提交）
+references/auth.md
+
+# 参考用的腾讯文档 skill（从本地复制的，不提交）
+tencentdocs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log

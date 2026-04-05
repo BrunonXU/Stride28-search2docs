@@ -1,0 +1,101 @@
+{
+  "title": "Agent与大模型应用面经汇总",
+  "date": "2026-04-05",
+  "summary": {
+    "total_posts": 15,
+    "valid_posts": 10,
+    "company_count": 5,
+    "top_positions": ["AI Agent 开发工程师", "大模型应用工程师", "NLP 算法工程师"],
+    "top_topics": [
+      "Agent 架构设计",
+      "RAG 检索增强",
+      "Prompt Engineering",
+      "多 Agent 协作",
+      "Tool Calling",
+      "LangChain 使用",
+      "大模型微调",
+      "向量数据库选型",
+      "模型评估",
+      "项目难点"
+    ],
+    "top_posts": [
+      {
+        "title": "字节跳动 AI Agent 开发三面全记录",
+        "url": "https://www.xiaohongshu.com/explore/abc123?xsec_token=EXAMPLE",
+        "reason": "覆盖完整三轮面试，问题详细"
+      },
+      {
+        "title": "腾讯大模型应用岗面经分享",
+        "url": "https://www.xiaohongshu.com/explore/def456?xsec_token=EXAMPLE",
+        "reason": "包含详细的 RAG 架构设计题"
+      },
+      {
+        "title": "阿里云智能体开发面试复盘",
+        "url": "https://www.xiaohongshu.com/explore/ghi789?xsec_token=EXAMPLE",
+        "reason": "多 Agent 协作方案讨论深入"
+      }
+    ]
+  },
+  "companies": {
+    "字节跳动": {
+      "color": "red",
+      "posts": [
+        {
+          "position": "AI Agent 开发工程师",
+          "type": "社招",
+          "round": "一面+二面+三面",
+          "date": "2026-04-03",
+          "author": "面试小能手",
+          "url": "https://www.xiaohongshu.com/explore/abc123?xsec_token=EXAMPLE",
+          "summary": "三轮技术面，重点考察 Agent 架构设计、Tool Calling 实现、多轮对话管理",
+          "questions": [
+            "设计一个多 Agent 协作系统",
+            "Tool Calling 的错误处理机制",
+            "如何评估 Agent 的输出质量"
+          ],
+          "key_points": [
+            "强调系统设计能力",
+            "需要有实际项目经验",
+            "对 ReAct 模式要熟悉"
+          ],
+          "insights": "字节对 Agent 工程化能力要求很高，建议准备完整的项目案例"
+        }
+      ]
+    }
+  },
+  "frequent_questions": {
+    "Agent 架构设计": [
+      {
+        "question": "设计一个多 Agent 协作系统，如何分工和通信？",
+        "focus": "架构设计能力、对 Agent 模式的理解",
+        "answer_hint": "从任务分解、Agent 角色定义、通信协议、错误处理四个维度展开"
+      }
+    ]
+  },
+  "advice": {
+    "skills_required": [
+      "Agent 架构设计与实现",
+      "RAG 全链路优化",
+      "Tool Calling 工程化"
+    ],
+    "gaps": [
+      "多 Agent 协作的实际案例",
+      "模型评估体系搭建"
+    ],
+    "project_tips": [
+      "准备一个完整的 Agent 项目，能讲清楚架构选型理由"
+    ],
+    "daily_questions": [
+      "ReAct vs Plan-and-Execute 的区别和适用场景",
+      "RAG 中如何处理多跳推理问题"
+    ]
+  },
+  "links": [
+    {
+      "company": "字节跳动",
+      "title": "字节跳动 AI Agent 开发三面全记录",
+      "url": "https://www.xiaohongshu.com/explore/abc123?xsec_token=EXAMPLE",
+      "date": "2026-04-03"
+    }
+  ]
+}
