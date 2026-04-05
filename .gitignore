@@ -4,6 +4,9 @@ references/auth.md
 # 参考用的腾讯文档 skill（从本地复制的，不提交）
 tencentdocs/
 
+# 空目录占位
+prompts/
+
 # Python
 __pycache__/
 *.pyc
@@ -22,3 +25,6 @@ Thumbs.db
 # 临时文件
 *.tmp
 *.log
+
+# 项目笔记（不提交）
+stride28-search2docs-project-notes.md
